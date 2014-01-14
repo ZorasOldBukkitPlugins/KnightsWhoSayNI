@@ -1,9 +1,10 @@
 name: KnightsWhoSayNI
-version: 1.0.0
+version: 1.0.1
 main: com.mrz.dyndns.server.KnightsWhoSayNI.KnightsWhoSayNI
 description: Are you a knight who says NI? Well you aren't until you have this plugin installed!
 author: MrZoraman
 prefix: NI
+website: http://dev.bukkit.org/bukkit-plugins/knightswhosayni/pages/main/
 commands:
   ni:
     description: Used to reload the plugin
