@@ -1,0 +1,10 @@
+name: KnightsWhoSayNI
+version: 1.0.0
+main: com.mrz.dyndns.server.KnightsWhoSayNI.KnightsWhoSayNI
+description: Are you a knight who says NI? Well you aren't until you have this plugin installed!
+author: MrZoraman
+prefix: NI
+commands:
+  ni:
+    description: Used to reload the plugin
+    usage: /<command> reload

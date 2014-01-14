@@ -1,0 +1,12 @@
+Range: 20
+FireTicks: 0
+Damage: 0.0
+AlmostKill: false
+Kill: false
+HitPlayers: true
+Push:
+    Up: 0.1
+    Away: 0.2
+ListenForNI: true
+ListenForFusRoDah: false
+NotAllowedMessage: "That won't do anything for you..."
